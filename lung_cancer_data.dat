@@ -1,0 +1,133 @@
+ge-Adjusted  Rates
+#By Data Type
+#Lung and Bronchus  All Ages  All Races  Both Sexes
+#1975-2015 
+'Data Type','Year','Rate','Modeled Rate'
+'SEER Incidence','1975',52.2400,53.3653
+'SEER Incidence','1976',55.4098,54.7172
+'SEER Incidence','1977',56.6912,56.1033
+'SEER Incidence','1978',57.8370,57.5245
+'SEER Incidence','1979',58.6152,58.9817
+'SEER Incidence','1980',60.6539,60.4758
+'SEER Incidence','1981',62.0322,62.0077
+'SEER Incidence','1982',63.2911,63.5785
+'SEER Incidence','1983',63.4462,64.1790
+'SEER Incidence','1984',65.4884,64.7852
+'SEER Incidence','1985',64.6123,65.3971
+'SEER Incidence','1986',65.7654,66.0147
+'SEER Incidence','1987',67.8975,66.6382
+'SEER Incidence','1988',68.0527,67.2676
+'SEER Incidence','1989',67.5564,67.9030
+'SEER Incidence','1990',68.0762,68.5443
+'SEER Incidence','1991',69.1898,69.1917
+'SEER Incidence','1992',69.4614,68.7199
+'SEER Incidence','1993',67.7505,68.2513
+'SEER Incidence','1994',67.1729,67.7859
+'SEER Incidence','1995',66.8466,67.3237
+'SEER Incidence','1996',66.4616,66.8646
+'SEER Incidence','1997',66.6218,66.4087
+'SEER Incidence','1998',67.5502,65.9559
+'SEER Incidence','1999',65.8354,65.5061
+'SEER Incidence','2000',64.1420,65.0595
+'SEER Incidence','2001',64.1461,64.6158
+'SEER Incidence','2002',64.0559,64.1752
+'SEER Incidence','2003',64.7510,63.7376
+'SEER Incidence','2004',62.2362,63.3030
+'SEER Incidence','2005',63.0254,62.8714
+'SEER Incidence','2006',62.2907,62.4427
+'SEER Incidence','2007',62.0772,62.0169
+'SEER Incidence','2008',60.3682,60.5833
+'SEER Incidence','2009',59.9722,59.1828
+'SEER Incidence','2010',57.6939,57.8147
+'SEER Incidence','2011',56.2236,56.4782
+'SEER Incidence','2012',55.2440,55.1726
+'SEER Incidence','2013',54.0327,53.8972
+'SEER Incidence','2014',53.0086,52.6513
+'SEER Incidence','2015',50.9924,51.4342
+'U.S. Mortality','1975',42.5569,42.7728
+'U.S. Mortality','1976',44.1964,44.0395
+'U.S. Mortality','1977',45.4863,45.3437
+'U.S. Mortality','1978',46.8791,46.6866
+'U.S. Mortality','1979',47.6864,48.0692
+'U.S. Mortality','1980',49.4138,49.4927
+'U.S. Mortality','1981',49.9855,50.3804
+'U.S. Mortality','1982',51.4301,51.2839
+'U.S. Mortality','1983',52.4015,52.2037
+'U.S. Mortality','1984',53.3595,53.1399
+'U.S. Mortality','1985',54.3203,54.0930
+'U.S. Mortality','1986',55.0351,55.0631
+'U.S. Mortality','1987',56.2432,56.0506
+'U.S. Mortality','1988',56.9729,57.0559
+'U.S. Mortality','1989',57.8970,58.0791
+'U.S. Mortality','1990',58.8538,59.1208
+'U.S. Mortality','1991',58.9927,58.9991
+'U.S. Mortality','1992',58.9014,58.8777
+'U.S. Mortality','1993',59.1275,58.7566
+'U.S. Mortality','1994',58.5421,58.6357
+'U.S. Mortality','1995',58.3841,58.5151
+'U.S. Mortality','1996',57.9074,57.9440
+'U.S. Mortality','1997',57.5061,57.3785
+'U.S. Mortality','1998',57.0761,56.8185
+'U.S. Mortality','1999',55.4161,56.2640
+'U.S. Mortality','2000',55.8462,55.7149
+'U.S. Mortality','2001',55.3190,55.1711
+'U.S. Mortality','2002',55.0017,54.6327
+'U.S. Mortality','2003',54.1912,54.0995
+'U.S. Mortality','2004',53.3657,53.5715
+'U.S. Mortality','2005',52.8526,53.0487
+'U.S. Mortality','2006',51.7263,51.8259
+'U.S. Mortality','2007',50.7100,50.6314
+'U.S. Mortality','2008',49.5885,49.4643
+'U.S. Mortality','2009',48.4123,48.3242
+'U.S. Mortality','2010',47.4181,47.2104
+'U.S. Mortality','2011',46.0028,46.1222
+'U.S. Mortality','2012',44.9404,45.0591
+'U.S. Mortality','2013',43.4416,43.5446
+'U.S. Mortality','2014',42.2010,42.0810
+'U.S. Mortality','2015',40.6211,40.6666
+'Delay-Adjusted SEER Incidence','1975',52.2400,53.3678
+'Delay-Adjusted SEER Incidence','1976',55.4098,54.7185
+'Delay-Adjusted SEER Incidence','1977',56.6912,56.1034
+'Delay-Adjusted SEER Incidence','1978',57.8370,57.5234
+'Delay-Adjusted SEER Incidence','1979',58.6152,58.9792
+'Delay-Adjusted SEER Incidence','1980',60.6539,60.4720
+'Delay-Adjusted SEER Incidence','1981',62.0322,62.0025
+'Delay-Adjusted SEER Incidence','1982',63.2911,63.5717
+'Delay-Adjusted SEER Incidence','1983',63.4462,64.1752
+'Delay-Adjusted SEER Incidence','1984',65.4884,64.7844
+'Delay-Adjusted SEER Incidence','1985',64.6123,65.3993
+'Delay-Adjusted SEER Incidence','1986',65.7654,66.0201
+'Delay-Adjusted SEER Incidence','1987',67.8975,66.6468
+'Delay-Adjusted SEER Incidence','1988',68.0527,67.2795
+'Delay-Adjusted SEER Incidence','1989',67.5564,67.9181
+'Delay-Adjusted SEER Incidence','1990',68.0762,68.5628
+'Delay-Adjusted SEER Incidence','1991',69.1898,69.2137
+'Delay-Adjusted SEER Incidence','1992',69.4614,68.7366
+'Delay-Adjusted SEER Incidence','1993',67.7505,68.2627
+'Delay-Adjusted SEER Incidence','1994',67.1729,67.7921
+'Delay-Adjusted SEER Incidence','1995',66.8466,67.3248
+'Delay-Adjusted SEER Incidence','1996',66.4616,66.8607
+'Delay-Adjusted SEER Incidence','1997',66.6218,66.3998
+'Delay-Adjusted SEER Incidence','1998',67.5502,65.9421
+'Delay-Adjusted SEER Incidence','1999',65.8354,65.4875
+'Delay-Adjusted SEER Incidence','2000',64.1420,65.0361
+'Delay-Adjusted SEER Incidence','2001',64.1461,64.5877
+'Delay-Adjusted SEER Incidence','2002',64.0559,64.1425
+'Delay-Adjusted SEER Incidence','2003',64.7510,63.7003
+'Delay-Adjusted SEER Incidence','2004',62.2362,63.2612
+'Delay-Adjusted SEER Incidence','2005',63.0254,62.8251
+'Delay-Adjusted SEER Incidence','2006',62.2907,62.3920
+'Delay-Adjusted SEER Incidence','2007',62.1140,61.9619
+'Delay-Adjusted SEER Incidence','2008',60.4400,60.6297
+'Delay-Adjusted SEER Incidence','2009',60.0791,59.3261
+'Delay-Adjusted SEER Incidence','2010',57.8300,58.0505
+'Delay-Adjusted SEER Incidence','2011',56.3924,56.8024
+'Delay-Adjusted SEER Incidence','2012',55.4446,55.5811
+'Delay-Adjusted SEER Incidence','2013',54.3497,54.3860
+'Delay-Adjusted SEER Incidence','2014',53.5031,53.2167
+'Delay-Adjusted SEER Incidence','2015',52.0459,52.0725
+#'Cancer sites include invasive cases only unless otherwise noted.'
+#'Rates are per 100,000 and are age-adjusted to the 2000 US Std Population (19 age groups - Census P25-1130). Regression lines are calculated using the Joinpoint Regression Program Version 4.6, February 2018, National Cancer Institute.'
+#'Mortality source: US Mortality Files, National Center for Health Statistics, CDC.'
+#'Incidence source: SEER 9 areas (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, and Atlanta).'
+#'Delay-Adjusted Incidence source: SEER 9 areas (San Francisco, Connecticut, Detroit, Hawaii, Iowa, New Mexico, Seattle, Utah, and Atlanta).'
